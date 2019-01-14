@@ -5,4 +5,5 @@ O protocolo é compatível com o Arduino IDE.
 Para utilizá-lo, basta baixar o arquivo "Bibliotecas do Radiuino.zip", descompactar e colar as duas pastas (radiuino e radiuino4app) no diretório libraries do Arduino IDE.
 
 Para mais informações, acesse http://radiuino.cc/aprendendo/ e entenda como funciona o Radiuino!
+Você também pode encontrar mais informações em https://iotools.com.br/
 
